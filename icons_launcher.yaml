@@ -1,0 +1,7 @@
+icons_launcher:
+  image_path: 'asset/png/sap.png'
+  platforms:
+    android:
+      enable: false
+    ios:
+      enable: true
